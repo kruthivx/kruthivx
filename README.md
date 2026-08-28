@@ -1,1 +1,1 @@
-# username-username
+I’m a CSE (AI & ML) student at KL University I’m passionate about technology, coding, and building things. I enjoy working on web development, AI, and creative tech projects while constantly exploring new tools and ideas
